@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"io.federecio.dropwizard.sample"},{"l":"io.federecio.dropwizard.swagger"}]
